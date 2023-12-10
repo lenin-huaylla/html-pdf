@@ -1,0 +1,23 @@
+{
+  "name": "lenin-html-pdf",
+  "version": "1.0.0",
+  "description": "Packe to generate apdf using a string html template or a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsdx test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenin-huaylla/html-pdf.git"
+  },
+  "keywords": [
+    "html-pdf",
+    "html-to-pdf"
+  ],
+  "author": "Lenin Jose Mamani Huaylla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lenin-huaylla/html-pdf/issues"
+  },
+  "homepage": "https://github.com/lenin-huaylla/html-pdf#readme"
+}
